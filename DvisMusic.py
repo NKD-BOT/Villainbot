@@ -221,7 +221,7 @@ async def main():
     LOGGER.info("✅ PyTgCalls Started.")
     await asyncio.sleep(1)
     LOGGER.info("✅ Sucessfully Hosted Your Bot !!")
-    LOGGER.info("✅ Now Do Visit: @net_pro_max !!")
+    LOGGER.info("✅ Now Do Visit: @ll_KINGDOM_ll !!")
     await idle()
 
 
@@ -331,7 +331,7 @@ async def add_served_user(user_id: int):
 
 # Extra
 async def fetch_song(name):
-    async with aiohttp.ClientSession() as s:  # This API Made By @C0DE_SEARCH On Telegram
+    async with aiohttp.ClientSession() as s:  # This API Made By @ll_IMPERIAL_ll On Telegram
         async with s.get(f"https://song-teleservice.vercel.app/song?songName={name.replace(' ', '%20')}") as r: 
             return await r.json() if r.status == 200 else None
 
