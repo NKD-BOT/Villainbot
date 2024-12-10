@@ -1,12 +1,12 @@
 <p align="center">
   <img src="" alt="">
 </p>
-<p align="center">
-  <img src="https://files.catbox.moe/nzpm5w.jpg">
-</p>
 <h1 align="center">
   ᴀɴɢʟᴇ ダ ᴍᴜsɪᴄ (Powerful Telegram Music Bot)
 </h1>
+<p align="center">
+  <img src="https://files.catbox.moe/nzpm5w.jpg">
+</p>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+ANGLE-MUSIC;A+Highly+Advance+Bot;Made+By+tg-@ll_BRANDED_ll!;ANGLE+Music+is+an+advanced+&+powerful+multi-featured+Telegram+vc++streaming+bot+.;Must+Give+Credit+To+AMRIT;Because+He+Public+The+Paid+Repo;Thank+You!)
 </p>
