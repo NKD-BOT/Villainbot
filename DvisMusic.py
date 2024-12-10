@@ -221,7 +221,7 @@ async def main():
     LOGGER.info("✅ PyTgCalls Started.")
     await asyncio.sleep(1)
     LOGGER.info("✅ Sucessfully Hosted Your Bot !!")
-    LOGGER.info("✅ Now Do Visit: @ll_KINGDOM_ll !!")
+    LOGGER.info("✅ Now Do Visit: @yt_farman !!")
     await idle()
 
 
@@ -331,7 +331,7 @@ async def add_served_user(user_id: int):
 
 # Extra
 async def fetch_song(name):
-    async with aiohttp.ClientSession() as s:  # This API Made By @ll_IMPERIAL_ll On Telegram
+    async with aiohttp.ClientSession() as s:  # This API Made By @NKD_KOREAN_DRAMA_HINDI On Telegram
         async with s.get(f"https://song-teleservice.vercel.app/song?songName={name.replace(' ', '%20')}") as r: 
             return await r.json() if r.status == 200 else None
 
@@ -357,7 +357,7 @@ async def start_message_private(client, message):
 │❍ • ɴᴏ ʟᴀɢs + ɴᴏ ᴀᴅs •‍
 │❍ • 24x7 ᴏɴʟɪɴᴇ sᴜᴘᴘᴏʀᴛ •‍
 ├───────────────────⦿‍
-│           [✰ 𝖮ᴡ፝֠֩𝛈𝛆ʀ  ✰](https://t.me/ll_KINGDOM_ll)
+│           [✰ 𝖮ᴡ፝֠֩𝛈𝛆ʀ  ✰](https://t.me/yt_farman)
 ╰───────────────────⦿"""
     buttons = InlineKeyboardMarkup(
         [
@@ -453,7 +453,7 @@ async def back_to_home_menu(client, query):
 │❍ • ɴᴏ ʟᴀɢs + ɴᴏ ᴀᴅs •‍
 │❍ • 24x7 ᴏɴʟɪɴᴇ sᴜᴘᴘᴏʀᴛ •‍
 ├───────────────────⦿‍
-│               [✰ 𝖮ᴡ፝֠֩𝛈𝛆ʀ  ✰](https://t.me/ll_KINGDOM_ll)
+│               [✰ 𝖮ᴡ፝֠֩𝛈𝛆ʀ  ✰](https://t.me/yt_farman)
 ╰───────────────────⦿"""
     buttons = InlineKeyboardMarkup(
         [
@@ -761,7 +761,7 @@ async def stream_logger(
 **❍ Cʜᴀᴛ Lɪɴᴋ:** {chat_link}
 **❍ Rᴇǫᴜᴇsᴛᴇᴅ ʙʏ:** {requested_by}
 
-❍ 𝖩ᴏɪɴ ➛ **[sᴜᴘᴘᴏꝛᴛ](https://t.me/ll_KINGDOM_ll)**"""
+❍ 𝖩ᴏɪɴ ➛ **[sᴜᴘᴘᴏꝛᴛ](https://t.me/NKD_Korean_Group)**"""
             else:
                 caption = f"""**✅ 𝐒ᴛᴀʀᴛᴇᴅ 𝐒ᴛʀᴇᴀᴍɪɴɢ 𝐎ɴ 𝐕ᴄ.**
 
@@ -1379,7 +1379,7 @@ async def git_repo_link(client, message):
             [
                 InlineKeyboardButton(
                     text="🌺 𝐎ᴘᴇɴ 𝐑ᴇᴘᴏsɪᴛᴏʀʏ 𝐋ɪɴᴋ 🦋",
-                    url="https://github.com/amritraj78",
+                    url="https://t.me/NKD_Korean_Group",
                 )
             ],
             [
