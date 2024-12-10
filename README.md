@@ -113,5 +113,5 @@
 </b>
 </details>
 
-**Copyright ©️ [𝐃𝐕𝐈𝐒](https://t.me/DvisDmBot) 😈 <i>Is Repo Ko Paid Karde Becha to Tu To Gaya Beta</i>** 😈
+**Copyright ©️ [AMRIT](https://t.me/ll_BRANDED_ll) 😈 <i>Is Repo Ko Paid Karde Becha to Tu To Gaya Beta</i>** 😈
  
