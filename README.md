@@ -2,7 +2,7 @@
   <img src="" alt="">
 </p>
 <h1 align="center">
-  DVIS MUSIC (Powerful Telegram Music Bot)
+  ANGLE MUSIC (Powerful Telegram Music Bot)
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+ANGLE-MUSIC;A+Highly+Advance+Bot;Made+By+tg-@ll_BRANDED_ll!;ANGLE+Music+is+an+advanced+&+powerful+multi-featured+Telegram+vc++streaming+bot+.;Must+Give+Credit+To+AMRIT;Because+He+Public+The+Paid+Repo;Thank+You!)
