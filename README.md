@@ -8,7 +8,7 @@
   <img src="https://files.catbox.moe/nzpm5w.jpg">
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+ANGLE-MUSIC;A+Highly+Advance+Bot;Made+By+tg-@ll_BRANDED_ll!;ANGLE+Music+is+an+advanced+&+powerful+multi-featured+Telegram+vc++streaming+bot+.;Must+Give+Credit+To+AMRIT;Because+He+Public+The+Paid+Repo;Thank+You!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ᴡᴇʟᴄᴏᴍᴇ+ᴛᴏ+ᴀɴɢʟᴇ-ᴍᴜsɪᴄ;ᴀ+ʜɪɢʜʟʏ+ᴀᴅᴠᴀɴᴄᴇ+ʙᴏᴛ;ᴍᴀᴅᴇ+ʙʏ+ᴛɢ-@ʟʟ_ʙʀᴀɴᴅᴇᴅ_ʟʟ!;ᴀɴɢʟᴇ+ᴍᴜsɪᴄ+ɪs+ᴀɴ+ᴀᴅᴠᴀɴᴄᴇᴅ+&+ᴘᴏᴡᴇʀғᴜʟ+ᴍᴜʟᴛɪ-ғᴇᴀᴛᴜʀᴇᴅ+ᴛᴇʟᴇɢʀᴀᴍ+ᴠᴄ++sᴛʀᴇᴀᴍɪɴɢ+ʙᴏᴛ+.;ᴍᴜsᴛ+ɢɪᴠᴇ+ᴄʀᴇᴅɪᴛ+ᴛᴏ+ᴀᴍʀɪᴛ;ʙᴇᴄᴀᴜsᴇ+ʜᴇ+ᴘᴜʙʟɪᴄ+ᴛʜᴇ+ᴘᴀɪᴅ+ʀᴇᴘᴏ;ᴛʜᴀɴᴋ+ʏᴏᴜ!)
 </p>
 
 
