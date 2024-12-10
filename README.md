@@ -5,14 +5,14 @@
   DVIS MUSIC (Powerful Telegram Music Bot)
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+DV-MUSIC-V2;A+Highly+Advance+Bot;Made+By+tg-@DvisDmBot!;Dvis+Music+is+an+advanced+&+powerful+multi-featured+Telegram+vc++streaming+bot+.;Must+Give+Credit+To+Dvis;Because+He+Public+The+Paid+Repo;Thank+You!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+ANGLE-MUSIC;A+Highly+Advance+Bot;Made+By+tg-@ll_BRANDED_ll!;ANGLE+Music+is+an+advanced+&+powerful+multi-featured+Telegram+vc++streaming+bot+.;Must+Give+Credit+To+AMRIT;Because+He+Public+The+Paid+Repo;Thank+You!)
 </p>
 
 
 ## 🤖 About
 
-<details><summary>Dvis Music Info</summary>
-<p title="Dvis Music">Dvis Music is an open-source Telegram multi-featured vc streaming bot developed by using the Python programming language and Pyrogram MTProto client library of the Telegram API and PyTgCalls library, a secure and reliable way to interact with the Telegram platform.</p>
+<details><summary>Angle Music Info</summary>
+<p title="Angle Music">Angle Music is an open-source Telegram multi-featured vc streaming bot developed by using the Python programming language and Pyrogram MTProto client library of the Telegram API and PyTgCalls library, a secure and reliable way to interact with the Telegram platform.</p>
 </details>
 
 
@@ -51,7 +51,7 @@
 - `LOG_GROUP_ID` : Log group id start with -100xxxxxx
 - `START_IMAGE_URL` : Your Start Img Url
 
-**Note:** have any problem or don't understand something, you can ask the **[sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ](https://t.me/+7ehnJA3aMb84OGNl)** or **[ᴅᴠɪs](https://t.me/DvisDmBot)** 
+**Note:** have any problem or don't understand something, you can ask the **[sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ](https://t.me/+ll_KINGDOM_ll)** or **[Amrit](https://t.me/ll_BRANDED_ll)** 
 
 </details>
 
@@ -64,7 +64,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/IamDvis/DV-MUSIC-V2"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/amritraj78/ANGLE-MUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
  </h3> </details>
 
