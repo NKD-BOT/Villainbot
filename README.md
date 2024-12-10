@@ -2,7 +2,7 @@
   <img src="" alt="">
 </p>
 <h1 align="center">
-  ᴀɴɢʟᴇ ダ ᴍᴜsɪᴄ (Powerful Telegram Music Bot)
+  ᴀɴɢʟᴇ ダ ᴍᴜsɪᴄ
 </h1>
 <p align="center">
   <img src="https://files.catbox.moe/nzpm5w.jpg">
